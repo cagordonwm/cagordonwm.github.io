@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Government Working for Your
+description: Chris Gordon, CFO
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
