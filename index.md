@@ -1,5 +1,5 @@
 ---
-title: Government Working for You
+title: Managing Public Health in Government
 description: Chris Gordon, CFO
 ---
 
